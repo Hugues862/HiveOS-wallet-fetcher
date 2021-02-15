@@ -1,1 +1,1 @@
-# hiveoswalletfetcher
+# hiveos wallet fetcher
