@@ -3,8 +3,8 @@ from connector import *
 
 
 # DATA VARIABLES
-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGkiLCJpYXQiOjE2MTI0MjQ1NzgsImV4cCI6MTkyNzc4NDU3OCwibmJmIjoxNjEyNDI0NTc4LCJqdGkiOjI0OTMzMzUzLCJzdWIiOjI0OTMzMzUzfQ.AQ87NYJ7sl3B_7YWB20Pos0xDBxfUW3bWdqDft8FNgE"
-farm_id="355390"
+token="token here"
+farm_id="farm id"
 
 
 local = False
